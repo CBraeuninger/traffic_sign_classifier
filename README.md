@@ -172,6 +172,4 @@ The model was then tested on ten additional images of German traffic signs found
 </figure>
 
 
-### Visualizing the Neural Network
-
 
